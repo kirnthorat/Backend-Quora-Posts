@@ -1,0 +1,41 @@
+body{
+    background-color:aquamarine
+}
+
+h1{
+    color: rgb(151, 6, 6);
+}
+.posts{
+  
+    background-color:lightcoral;
+}
+.username{
+    font-style: italic;
+}
+.newposts{
+
+    background-color:goldenrod;
+    text-align: center;
+    padding: 20px;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    margin: 10px;
+    padding: 8px;
+   
+}
+.input{
+    border: 2px solid black;
+    border-radius: 4px;
+    /* height: 100px; */
+}
+a{
+    text-decoration: none;
+    color:blue
+}
+.button{
+    background-color: aqua;
+}
